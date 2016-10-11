@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoriApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="monday">Monday</string>
+    <string name="dash">-</string>
+    <string name="sunday">Sunday</string>
+    <string name="project">Проект</string>
+    <string name="task">Задача</string>
+    <string name="summ">Итого</string>
+</resources>
